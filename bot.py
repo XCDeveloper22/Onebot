@@ -19,7 +19,8 @@ import yt_dlp
 from discord import app_commands
 from discord.ext import commands, tasks
 from deep_translator import GoogleTranslator
-from langdetect import DetectorFactory, LangDetectException, detect
+from langdetect import DetectorFactory, detect
+from langdetect.lang_detect_exception import LangDetectException
 from env_utils import load_dotenv
 from keep_alive import keep_alive
 import database # Import database module

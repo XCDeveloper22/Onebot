@@ -1,4 +1,5 @@
-discord.py[voice]
+discord.py
+PyNaCl>=1.6.2
 deep-translator
-langdetect
+langdetect-py==1.1.1
 yt-dlp

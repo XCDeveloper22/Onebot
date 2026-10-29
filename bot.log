@@ -1231,3 +1231,5 @@ discord.app_commands.errors.CommandInvokeError: Command 'automod' raised an exce
 2026-05-06 07:25:49,008 [WARNING] We are being rate limited. DELETE https://discord.com/api/v10/channels/1497947321357303949/messages/1501364294867091597 responded with 429. Retrying in 0.30 seconds.
 2026-05-06 07:25:49,656 [WARNING] We are being rate limited. DELETE https://discord.com/api/v10/channels/1497947321357303949/messages/1501364294867091597 responded with 429. Retrying in 0.53 seconds.
 2026-05-06 07:25:50,540 [WARNING] We are being rate limited. DELETE https://discord.com/api/v10/channels/1497947321357303949/messages/1501364294867091597 responded with 429. Retrying in 0.63 seconds.
+2026-10-29 17:37:36,631 [INFO] logging in using static token
+2026-10-29 17:37:36,788 [WARNING] Login failed: Improper token has been passed.. The healthcheck server remains online for diagnostics.
